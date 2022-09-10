@@ -1,0 +1,10 @@
+{
+    "REGISTER_REQUEST": {
+        "USERNAME": "ashyke",
+        "PASSWORD": "rynee",
+        "EMAIL": "jace_hamilton@fake_email.net",
+        "FIRST_NAME": "Jace",
+        "LAST_NAME": "Hamilton",
+        "GENDER": "m"
+    }
+}
