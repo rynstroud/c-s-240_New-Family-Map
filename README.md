@@ -1,0 +1,2 @@
+# family-map-app
+This a working, end-to-end mobile family history app, including database, server, API, DAO classes, and front end, written in Java and SQL. A user can sign up (which logs information in the database after completion) or log in (which validates information and gives a temporary access token). If they have family history information already stored, it will be displayed in the usual tree-like fashion. They can add more information about family members, change settings, search for family, and many other functions.
